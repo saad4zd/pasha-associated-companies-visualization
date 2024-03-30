@@ -22,7 +22,7 @@ Our visualizations, created using Python, leverage several powerful libraries in
 
 ## How to Use
 
-1. **Download the Dataset**: Click on the "Download Dataset" link provided above to acquire the dataset file (`pasha_companies.md`).
+1. **Download the Dataset**: Click on the "Download Dataset" link provided above to acquire the dataset file (`pasha_companies_directory.csv`).
 
 2. **Explore the Visualizations**: Dive into the visualizations stored in the `visualizations.ipynb` file to uncover valuable insights into PASHA-associated companies.
 
